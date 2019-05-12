@@ -1,0 +1,2 @@
+{'name': 'dada', 'health': 100, 'damage': 0, 'armor': 1.2}
+{'name': 'rere', 'health': 100, 'damage': 0, 'armor': 1.2}
